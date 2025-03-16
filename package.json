@@ -24,6 +24,8 @@
     "cpp",
     "*.podspec",
     "react-native.config.js",
+    "fetch_artifacts.sh",
+    "fetch_lwk.sh",
     "!LwkRnFramework.xcframework",
     "!ios/build",
     "!android/build",
